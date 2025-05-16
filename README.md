@@ -37,6 +37,6 @@ Uma API RESTful básica utilizando Spring Boot para gerenciar o cadastro de bene
 Após o build ser concluído com sucesso, você pode executar a aplicação com o seguinte comando:
 java -jar target/cadastro-0.0.1-SNAPSHOT.jar
 
-Contribuição
+Contribuição:
 Contribuições sempre são bem-vindas!
 
